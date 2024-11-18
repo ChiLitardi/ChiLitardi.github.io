@@ -51,7 +51,7 @@ permalink: /publications/
 
   Restructuring trends in retail banking: Case Study on Banco BPM (Italy) <br />
   <em>Litardi C.</em><br />
-  <a href="https://www.eurofound.europa.eu/sites/default/files/wpef22038.pdf">https://www.eurofound.europa.eu/sites/default/files/wpef22038.pdf</a>
+  <a href="https://www.eurofound.europa.eu/system/files/2022-09/wpef22038.pdf">https://www.eurofound.europa.eu/system/files/2022-09/wpef22038.pdf</a>
 
   Tutorial: STATA toolkit for upward convergence analysis <br />
   <em>Litardi C., Bisello M., Mascherini M.</em><br />
