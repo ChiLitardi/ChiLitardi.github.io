@@ -62,3 +62,26 @@ permalink: /publications/
   <a href="https://www.eurofound.europa.eu/sites/default/files/wpef20008.pdf">https://www.eurofound.europa.eu/sites/default/files/wpef20008.pdf</a>
 
 {% endfor %}
+
+## Articles and blogs
+
+{% for publi in site.data.publist %}
+
+  Monitoring Convergence in the European Union with the convergEU Package for R <br />
+  <em>Stefanini F. M., Nikiforova N. D., Peruffo E., Bisello M., Litardi C., Mascherini M.</em><br />
+  <a href="https://www.ajs.or.at/index.php/ajs/article/view/2023">Austrian Journal of Statistics, 2023</a>
+
+  Employee monitoring: A moving target for regulation <br />
+  <em>Riso S., Litardi C.</em><br />
+  <a href="https://www.eurofound.europa.eu/en/resources/article/2024/employee-monitoringmoving-target-regulation">https://www.eurofound.europa.eu/en/resources/article/2024/employee-monitoringmoving-target-regulation</a>
+
+  Regulatory responses to algorithmic management in the EU <br />
+  <em>Litardi C., Adascalitei D., Widera S.</em><br />
+  <a href="https://www.eurofound.europa.eu/en/resources/article/2024/regulatory-responsesalgorithmic-management-eu">https://www.eurofound.europa.eu/en/resources/article/2024/regulatory-responsesalgorithmic-management-eu</a>
+
+  Big tech dismissals: What is the impact in the EU? <br />
+  <em>Litardi C., Plaumann L.</em><br />
+  <a href="https://www.eurofound.europa.eu/en/resources/article/2023/big-tech-dismissals-whatimpact-eu">https://www.eurofound.europa.eu/en/resources/article/2023/big-tech-dismissals-whatimpact-eu</a>
+
+{% endfor %}
+
