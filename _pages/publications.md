@@ -47,7 +47,7 @@ permalink: /publications/
 
   Remote work in rural and peripheral areas: Characteristics, challenges and initiatives to support it <br />
   <em>Bisello M., Litardi C.</em><br />
-  <a href="https://www.eurofound.europa.eu/en/publications/eurofound-paper/2024/remote-workrural-and-peripheral-areas-characteristics-challenges">https://www.eurofound.europa.eu/en/publications/eurofound-paper/2024/remote-workrural-and-peripheral-areas-characteristics-challenges</a>
+  <a href="https://www.eurofound.europa.eu/en/publications/eurofound-paper/2024/remote-workrural-and-peripheral-areas-characteristics-challenges">https://www.eurofound.europa.eu/en/publications/eurofound-paper/2024/remote-work-rural-and-peripheral-areas-characteristics-challenges</a>
 
   Restructuring trends in retail banking: Case Study on Banco BPM (Italy) <br />
   <em>Litardi C.</em><br />
