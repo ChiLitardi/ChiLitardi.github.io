@@ -55,7 +55,7 @@ permalink: /publications/
 
   Tutorial: STATA toolkit for upward convergence analysis <br />
   <em>Litardi C., Bisello M., Mascherini M.</em><br />
-  <a href="https://www.eurofound.europa.eu/sites/default/files/wpef20018.pdf">https://www.eurofound.europa.eu/sites/default/files/wpef20018.pdf</a>
+  <a href="https://www.eurofound.europa.eu/en/publications/eurofound-paper/2020/tutorial-stata-toolkit-upward-convergence-analysis">https://www.eurofound.europa.eu/en/publications/eurofound-paper/2020/tutorial-stata-toolkit-upward-convergence-analysis</a>
 
   Monitoring upward convergence in the EU with R: The convergEU package <br />
   <em>Stefanini F. M., Nikiforova N. D., Litardi C., Bisello M., Peruffo E., Mascherini M.</em><br />
