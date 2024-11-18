@@ -9,7 +9,7 @@ permalink: /
 <div style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/profile.jpeg" style="width: 210px">
 </div>
-</div>
+
 
 Hello! I am a Research Officer at Eurofound and a PhD student at University College Dublin School of Economics supervised by Benjamin Elsner. The research I plan to do for the PhD will be in labor economics, with a strong focus on migration and how migration affects the lives of migrants and natives. I currently work and have worked on topics related to company restructuring, employment and on social upward convergence. 
 
