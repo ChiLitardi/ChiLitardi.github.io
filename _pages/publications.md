@@ -40,4 +40,25 @@ permalink: /publications/
 
 ## Working papers
 
+{% for publi in site.data.publist %}
 
+  Identifying new sources of data for Eurofound research <br />
+  <em>Vacas C., Litardi C., Aumayr-Pintar C., Ahrendt D.N., Peruffo E., Van Houten G., Bisello M., Rasche M., Nivakoski S., Riso S., Farrell T., Weber T.</em><br />
+
+  Remote work in rural and peripheral areas: Characteristics, challenges and initiatives to support it <br />
+  <em>Bisello M., Litardi C.</em><br />
+  <a href="https://www.eurofound.europa.eu/en/publications/eurofound-paper/2024/remote-workrural-and-peripheral-areas-characteristics-challenges">https://www.eurofound.europa.eu/en/publications/eurofound-paper/2024/remote-workrural-and-peripheral-areas-characteristics-challenges</a>
+
+  Restructuring trends in retail banking: Case Study on Banco BPM (Italy) <br />
+  <em>Litardi C.</em><br />
+  <a href="https://www.eurofound.europa.eu/sites/default/files/wpef22038.pdf">https://www.eurofound.europa.eu/sites/default/files/wpef22038.pdf</a>
+
+  Tutorial: STATA toolkit for upward convergence analysis <br />
+  <em>Litardi C., Bisello M., Mascherini M.</em><br />
+  <a href="https://www.eurofound.europa.eu/sites/default/files/wpef20018.pdf">https://www.eurofound.europa.eu/sites/default/files/wpef20018.pdf</a>
+
+  Monitoring upward convergence in the EU with R: The convergEU package <br />
+  <em>Stefanini F. M., Nikiforova N. D., Litardi C., Bisello M., Peruffo E., Mascherini M.</em><br />
+  <a href="https://www.eurofound.europa.eu/sites/default/files/wpef20008.pdf">https://www.eurofound.europa.eu/sites/default/files/wpef20008.pdf</a>
+
+{% endfor %}
