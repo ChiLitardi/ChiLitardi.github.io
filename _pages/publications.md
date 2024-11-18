@@ -14,7 +14,7 @@ permalink: /publications/
 
   Regional employment change and the geography of telework in Europe <br />
   <em>Bisello M., Sostero M., Litardi C., Hurley J., Fernández-Macías E.</em><br />
-  <a href="https://www.eurofound.europa.eu/en/publications/2024/regional-employment-change-and-geography-telework-europe">https://www.eurofound.europa.eu/en/publications/2024/regional-employment-changeand-geography-telework-europe</a>
+  <a href="https://www.eurofound.europa.eu/en/publications/2024/regional-employment-change-and-geography-telework-europe">https://www.eurofound.europa.eu/en/publications/2024/regional-employment-change-and-geography-telework-europe</a>
 
   The changing structure of employment in the EU: Annual review 2023 <br />
   <em>Hurley J., Litardi C.</em><br />
