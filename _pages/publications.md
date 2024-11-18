@@ -9,6 +9,7 @@ permalink: /publications/
 
 # Publications
 
+## Reports
 {% for publi in site.data.publist %}
 
   Regional employment change and the geography of telework in Europe <br />
@@ -27,4 +28,16 @@ permalink: /publications/
   <em>Tamele B., Zamora-Pérez A., Litardi C., Howes J., Steinmann E., Todt D.</em><br />
   <a href="https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op259~33b180d450.en.pdf">https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op259~33b180d450.en.pdf</a>
 
+  Study on Payment Attitudes of Consumers in the Euro Area <br />
+  <em>Lalouette L., Litardi C., Puseepp T., Zamora A., Esselink H.</em><br />
+  <a href="https://www.ecb.europa.eu/pub/pdf/other/ecb.spacereport202012~bb2038bbb6.en.pdf">https://www.ecb.europa.eu/pub/pdf/other/ecb.spacereport202012~bb2038bbb6.en.pdf</a>
+
+  A more equal Europe? Convergence and the European Pillar of Social Rights <br />
+  <em>Mascherini M., Litardi C.</em><br />
+  <a href="https://www.eurofound.europa.eu/publications/policy-brief/2019/a-more-equal-europeconvergence-and-the-european-pillar-of-social-rights">https://www.eurofound.europa.eu/publications/policy-brief/2019/a-more-equal-europeconvergence-and-the-european-pillar-of-social-rights</a> [Available also in French, Spanish and German]
+
 {% endfor %}
+
+## Working papers
+
+
