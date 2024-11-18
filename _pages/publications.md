@@ -18,11 +18,11 @@ permalink: /publications/
 
   The changing structure of employment in the EU: Annual review 2023 <br />
   <em>Hurley J., Litardi C.</em><br />
-  <a href="https://www.eurofound.europa.eu/en/publications/2024/changing-structureemployment-eu-annual-review-2023">https://www.eurofound.europa.eu/en/publications/2024/changing-structureemployment-eu-annual-review-2023</a>
+  <a href="https://www.eurofound.europa.eu/en/publications/2024/changing-structure-employment-eu-annual-review-2023">https://www.eurofound.europa.eu/en/publications/2024/changing-structure-employment-eu-annual-review-2023</a>
 
   Going digital: Restructuring trends in retail banking <br />
   <em>Litardi C., Rodriguez Contreras, R., Hurley, J.</em><br />
-  <a href="https://www.eurofound.europa.eu/publications/report/2022/going-digital-restructuringtrends-in-retail-banking">https://www.eurofound.europa.eu/publications/report/2022/going-digital-restructuringtrends-in-retail-banking</a>
+  <a href="https://www.eurofound.europa.eu/publications/report/2022/going-digital-restructuring-trends-in-retail-banking">https://www.eurofound.europa.eu/publications/report/2022/going-digital-restructuring-trends-in-retail-banking</a>
 
   Catch me (if you can): assessing the risk of SARS-CoV-2 transmission via euro cash <br />
   <em>Tamele B., Zamora-Pérez A., Litardi C., Howes J., Steinmann E., Todt D.</em><br />
