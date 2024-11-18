@@ -34,7 +34,7 @@ permalink: /publications/
 
   A more equal Europe? Convergence and the European Pillar of Social Rights <br />
   <em>Mascherini M., Litardi C.</em><br />
-  <a href="https://www.eurofound.europa.eu/publications/policy-brief/2019/a-more-equal-europeconvergence-and-the-european-pillar-of-social-rights">https://www.eurofound.europa.eu/publications/policy-brief/2019/a-more-equal-europeconvergence-and-the-european-pillar-of-social-rights</a> [Available also in French, Spanish and German]
+  <a href="https://www.eurofound.europa.eu/publications/policy-brief/2019/a-more-equal-europe-convergence-and-the-european-pillar-of-social-rights">https://www.eurofound.europa.eu/publications/policy-brief/2019/a-more-equal-europe-convergence-and-the-european-pillar-of-social-rights</a> [Available also in French, Spanish and German]
 
 {% endfor %}
 
