@@ -59,7 +59,7 @@ permalink: /publications/
 
   Monitoring upward convergence in the EU with R: The convergEU package <br />
   <em>Stefanini F. M., Nikiforova N. D., Litardi C., Bisello M., Peruffo E., Mascherini M.</em><br />
-  <a href="https://www.eurofound.europa.eu/sites/default/files/wpef20008.pdf">https://www.eurofound.europa.eu/sites/default/files/wpef20008.pdf</a>
+  <a href="https://www.eurofound.europa.eu/en/publications/eurofound-paper/2020/monitoring-upward-convergence-eu-r-convergeu-package">https://www.eurofound.europa.eu/en/publications/eurofound-paper/2020/monitoring-upward-convergence-eu-r-convergeu-package</a>
 
 {% endfor %}
 
